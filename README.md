@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicka</h1>
 <h3 align="center">A dedicated female dev from PH, committed to grow within the tech industry</h3>
 
-<img alt="coding-gif" align= "right" width="500" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
+<img alt="coding-gif" align= "right" width="380" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 
 - 🔭 I’m currently working on **my online business' webpage**
 
