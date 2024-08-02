@@ -3,9 +3,7 @@
 
 <img alt="coding-gif" align= "right" width="380" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 
-- 🔭 I’m currently working on **my online business' webpage**
-
-- 🌱 I’m currently learning **API, EF Core, ReactJS**
+- 🌱 I’m currently learning **RestAPI, EF Core, ReactJS**
 
 - 📫 How to reach me **ng.cawicaan@gmail.com**
 
